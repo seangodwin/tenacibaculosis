@@ -1,70 +1,70 @@
 fish_id,qPCR_screened,sample_type,pre_post,date_capture,hold_id,tank,focal,sequenced,fate,date_necropsy,days_in_study,lesions_post,fork_length_cm_post,girth_cm_post,sex,stock_origin,fl_psy_copy,mo_vis_copy,pisck_sal_copy,re_sal_copy,rlo_copy,te_dic,te_fin,te_mar,vi_sal,te_dic_detect,te_mar_detect
-59742,Y,swab,pre,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,0,72,38,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59748,Y,gill,pre,2022-08-12,Aug9,20,N,N,end_hold,2022-08-22,10,0,80,47,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59748,Y,gill,post,2022-08-12,Aug9,20,N,N,end_hold,2022-08-22,10,0,80,47,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,    267.26,  0.00,   216.04,0.00,NA,Y
-59748,Y,swab,pre,2022-08-12,Aug9,20,N,N,end_hold,2022-08-22,10,0,80,47,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59749,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,38,18,female,SNOHOMISH_RIVER,2.87722421838057,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59754,Y,swab,pre,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,37,18,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59756,Y,swab,pre,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,38,17,female,ABERNATHY_RIVER,3.4412512700685,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    11.71,0.00,NA,Y
-59759,Y,gill,pre,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     2.70,0.00,NA,Y
-59759,Y,gill,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59759,Y,kidney,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,507.01,0.00,3.85,     34.12,  0.00,     0.00,0.00,NA,N
-59759,Y,liver,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  2.73,0.00,0.00,     12.47,  0.00,     0.00,0.00,NA,N
-59759,Y,swab,pre,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     2.39,0.00,NA,Y
-59759,Y,swab,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,     53.76,  0.00,     0.00,0.00,NA,N
-59764,Y,swab,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,42,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59766,Y,gill,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,69,39,male,SARITA_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59766,Y,gill,post,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,69,39,male,SARITA_RIVER,0,  0.00,  0.00,0.00,0.00,      0.79,  0.00,     0.00,0.00,NA,N
-59766,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,69,39,male,SARITA_RIVER,0,  0.00,  0.00,0.00,0.00,      0.03,  0.00,     5.42,0.00,NA,Y
-59776,Y,swab,pre,2022-08-09,Aug9,20,N,N,end_hold,2022-08-21,12,0,38,18,female,GREEN_RIVER,6.50116558842248,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     5.01,0.00,NA,Y
-59778,Y,gill,pre,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,1,39,20,female,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59778,Y,swab,post,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,1,39,20,female,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,   4525.88,  0.03,  2952.96,0.00,NA,Y
-59785,Y,gill,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,40,19,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59785,Y,gill,post,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,40,19,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      7.79,  0.00,     0.00,0.00,NA,N
-59785,Y,swab,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,40,19,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59791,Y,gill,pre,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59791,Y,gill,post,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,10.7585575745581,  0.00,  0.00,0.00,0.00,   8450.25,  0.00,     0.00,0.00,NA,N
-59791,Y,kidney,post,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,    741.80,  0.00,     0.00,0.00,NA,N
-59791,Y,liver,post,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,     22.30,  0.00,     0.00,0.00,NA,N
-59791,Y,swab,pre,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    44.67,0.00,NA,Y
-59791,Y,swab,post,2022-08-09,Aug9,20,Y,Y,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00, 455301.61,  0.00,     0.00,0.00,NA,N
-59792,Y,gill,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59792,Y,gill,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59792,Y,swab,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59792,Y,swab,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,     11.34,  0.00,   253.26,0.00,NA,Y
-59794,Y,gill,post,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,87,46,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,     45.43,  0.00,     0.00,0.00,NA,N
-59794,Y,swab,pre,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,87,46,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59794,Y,swab,post,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,87,46,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,  14538.81,  0.00,     0.00,0.00,NA,N
-59795,Y,gill,pre,2022-08-12,Aug9,19,N,N,end_hold,2022-08-22,10,0,80,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59795,Y,swab,pre,2022-08-12,Aug9,19,N,N,end_hold,2022-08-22,10,0,80,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59798,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,35,16,female,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59808,Y,gill,pre,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,68,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  1.46,     0.00,0.00,NA,N
-59808,Y,gill,post,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,68,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      3.01,  0.00,     0.00,0.00,NA,N
-59808,Y,swab,pre,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,68,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  6.61,     0.00,0.00,NA,N
-59810,Y,gill,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,63,33,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59819,Y,gill,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59819,Y,gill,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,    222.36,  0.00,   111.94,0.00,NA,Y
-59819,Y,swab,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59819,Y,swab,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,     99.84,  0.00,    72.45,0.00,NA,Y
-59820,Y,gill,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,48,25,male,CHILLIWACK_RIVER_fall,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59820,Y,gill,post,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,48,25,male,CHILLIWACK_RIVER_fall,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59820,Y,swab,post,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,48,25,male,CHILLIWACK_RIVER_fall,0,  0.00,  0.00,0.00,0.00,    244.28,  0.00,    30.93,0.00,NA,Y
-59821,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,45,23,female,ABERNATHY_RIVER,1.18139488553127,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    26.27,0.00,NA,Y
-59822,Y,gill,pre,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59822,Y,gill,post,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,   6779.91,  0.00,     0.00,0.00,NA,N
-59822,Y,kidney,post,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,   6504.12,  0.00,     0.00,0.00,NA,N
-59822,Y,liver,post,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,    671.47,  0.00,     0.00,0.00,NA,N
-59822,Y,swab,post,2022-08-10,Aug9,18,Y,Y,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00, 288697.13,  0.00,     0.00,0.00,NA,N
-59824,Y,gill,pre,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,44.5,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59824,Y,gill,post,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,44.5,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,     20.43,  0.00,     0.00,0.00,NA,N
-59824,Y,swab,pre,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,44.5,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59826,Y,gill,pre,2022-08-11,Aug9,20,N,N,end_hold,2022-08-21,10,0,62.5,35,female,NITINAT_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59828,Y,swab,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,43,20,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59830,Y,gill,pre,2022-08-11,Aug9,19,Y,N,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,3.02941896485918,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59830,Y,gill,post,2022-08-11,Aug9,19,Y,N,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.07,0.00,0.00,  14216.31,  0.00,     0.00,0.00,NA,N
-59830,Y,kidney,post,2022-08-11,Aug9,19,Y,N,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,  13456.07,  0.00,     0.00,0.00,NA,N
-59830,Y,liver,post,2022-08-11,Aug9,19,Y,Y,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,  71963.22,  0.00,     0.00,0.00,NA,N
-59830,Y,swab,post,2022-08-11,Aug9,19,Y,Y,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00, 110340.79,  0.00,     0.00,0.00,NA,N
+59742,Y,swab,pre,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,0,72,38,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59748,Y,gill,pre,2022-08-12,Aug9,20,N,N,end_hold,2022-08-22,10,0,80,47,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59748,Y,gill,post,2022-08-12,Aug9,20,N,N,end_hold,2022-08-22,10,0,80,47,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,    267.26,  0.00,   216.04,0.00,Y,Y
+59748,Y,swab,pre,2022-08-12,Aug9,20,N,N,end_hold,2022-08-22,10,0,80,47,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59749,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,38,18,female,SNOHOMISH_RIVER,2.87722421838057,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59754,Y,swab,pre,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,37,18,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59756,Y,swab,pre,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,38,17,female,ABERNATHY_RIVER,3.4412512700685,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    11.71,0.00,N,Y
+59759,Y,gill,pre,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     2.70,0.00,N,Y
+59759,Y,gill,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59759,Y,kidney,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,507.01,0.00,3.85,     34.12,  0.00,     0.00,0.00,Y,N
+59759,Y,liver,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  2.73,0.00,0.00,     12.47,  0.00,     0.00,0.00,Y,N
+59759,Y,swab,pre,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     2.39,0.00,N,Y
+59759,Y,swab,post,2022-08-09,Aug9,20,Y,N,end_hold,2022-08-21,12,1,42,22,male,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,     53.76,  0.00,     0.00,0.00,Y,N
+59764,Y,swab,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,42,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59766,Y,gill,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,69,39,male,SARITA_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59766,Y,gill,post,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,69,39,male,SARITA_RIVER,0,  0.00,  0.00,0.00,0.00,      0.79,  0.00,     0.00,0.00,Y,N
+59766,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,69,39,male,SARITA_RIVER,0,  0.00,  0.00,0.00,0.00,      0.03,  0.00,     5.42,0.00,Y,Y
+59776,Y,swab,pre,2022-08-09,Aug9,20,N,N,end_hold,2022-08-21,12,0,38,18,female,GREEN_RIVER,6.50116558842248,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     5.01,0.00,N,Y
+59778,Y,gill,pre,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,1,39,20,female,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59778,Y,swab,post,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,1,39,20,female,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,   4525.88,  0.03,  2952.96,0.00,Y,Y
+59785,Y,gill,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,40,19,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59785,Y,gill,post,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,40,19,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      7.79,  0.00,     0.00,0.00,Y,N
+59785,Y,swab,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,40,19,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59791,Y,gill,pre,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59791,Y,gill,post,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,10.7585575745581,  0.00,  0.00,0.00,0.00,   8450.25,  0.00,     0.00,0.00,Y,N
+59791,Y,kidney,post,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,    741.80,  0.00,     0.00,0.00,Y,N
+59791,Y,liver,post,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,     22.30,  0.00,     0.00,0.00,Y,N
+59791,Y,swab,pre,2022-08-09,Aug9,20,Y,N,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    44.67,0.00,N,Y
+59791,Y,swab,post,2022-08-09,Aug9,20,Y,Y,euthanized,2022-08-14,5,1,36,19,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00, 455301.61,  0.00,     0.00,0.00,Y,N
+59792,Y,gill,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59792,Y,gill,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59792,Y,swab,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59792,Y,swab,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,1,73,42,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,     11.34,  0.00,   253.26,0.00,Y,Y
+59794,Y,gill,post,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,87,46,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,     45.43,  0.00,     0.00,0.00,Y,N
+59794,Y,swab,pre,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,87,46,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59794,Y,swab,post,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,87,46,female,THOMPSON_RIVER_BELOW_KAMLOOPS_LAKE,0,  0.00,  0.00,0.00,0.00,  14538.81,  0.00,     0.00,0.00,Y,N
+59795,Y,gill,pre,2022-08-12,Aug9,19,N,N,end_hold,2022-08-22,10,0,80,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59795,Y,swab,pre,2022-08-12,Aug9,19,N,N,end_hold,2022-08-22,10,0,80,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59798,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,35,16,female,COWICHAN_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59808,Y,gill,pre,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,68,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  1.46,     0.00,0.00,N,N
+59808,Y,gill,post,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,68,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      3.01,  0.00,     0.00,0.00,Y,N
+59808,Y,swab,pre,2022-08-11,Aug9,21,N,N,end_hold,2022-08-22,11,0,68,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  6.61,     0.00,0.00,N,N
+59810,Y,gill,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,63,33,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59819,Y,gill,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59819,Y,gill,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,    222.36,  0.00,   111.94,0.00,Y,Y
+59819,Y,swab,pre,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59819,Y,swab,post,2022-08-09,Aug9,18,N,N,end_hold,2022-08-22,13,0,37,17,male,SNOHOMISH_RIVER,0,  0.00,  0.00,0.00,0.00,     99.84,  0.00,    72.45,0.00,Y,Y
+59820,Y,gill,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,48,25,male,CHILLIWACK_RIVER_fall,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59820,Y,gill,post,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,48,25,male,CHILLIWACK_RIVER_fall,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59820,Y,swab,post,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,48,25,male,CHILLIWACK_RIVER_fall,0,  0.00,  0.00,0.00,0.00,    244.28,  0.00,    30.93,0.00,Y,Y
+59821,Y,swab,pre,2022-08-09,Aug9,19,N,N,end_hold,2022-08-21,12,0,45,23,female,ABERNATHY_RIVER,1.18139488553127,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    26.27,0.00,N,Y
+59822,Y,gill,pre,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59822,Y,gill,post,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,   6779.91,  0.00,     0.00,0.00,Y,N
+59822,Y,kidney,post,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,   6504.12,  0.00,     0.00,0.00,Y,N
+59822,Y,liver,post,2022-08-10,Aug9,18,Y,N,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00,    671.47,  0.00,     0.00,0.00,Y,N
+59822,Y,swab,post,2022-08-10,Aug9,18,Y,Y,euthanized,2022-08-16,6,1,38,20,male,NANAIMO_RIVER_fall,0,  0.00,  0.00,0.00,0.00, 288697.13,  0.00,     0.00,0.00,Y,N
+59824,Y,gill,pre,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,44.5,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59824,Y,gill,post,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,44.5,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,     20.43,  0.00,     0.00,0.00,Y,N
+59824,Y,swab,pre,2022-08-10,Aug9,19,N,N,end_hold,2022-08-21,11,0,44.5,21,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59826,Y,gill,pre,2022-08-11,Aug9,20,N,N,end_hold,2022-08-21,10,0,62.5,35,female,NITINAT_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59828,Y,swab,pre,2022-08-09,Aug9,21,N,N,end_hold,2022-08-22,13,0,43,20,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59830,Y,gill,pre,2022-08-11,Aug9,19,Y,N,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,3.02941896485918,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59830,Y,gill,post,2022-08-11,Aug9,19,Y,N,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.07,0.00,0.00,  14216.31,  0.00,     0.00,0.00,Y,N
+59830,Y,kidney,post,2022-08-11,Aug9,19,Y,N,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,  13456.07,  0.00,     0.00,0.00,Y,N
+59830,Y,liver,post,2022-08-11,Aug9,19,Y,Y,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,  71963.22,  0.00,     0.00,0.00,Y,N
+59830,Y,swab,post,2022-08-11,Aug9,19,Y,Y,mortality,2022-08-14,3,1,42,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00, 110340.79,  0.00,     0.00,0.00,Y,N
 59734,N,NA,NA,2022-08-11,Aug9,18,N,N,end_hold,2022-08-22,11,0,62,34,male,ROBERTSON_CREEK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59736,N,NA,NA,2022-08-10,Aug9,20,N,N,end_hold,2022-08-21,11,0,83.5,49,female,SNOHOMISH_RIVER,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59737,N,NA,NA,2022-08-11,Aug9,19,N,N,end_hold,2022-08-21,10,0,56,30,male,ROBERTSON_CREEK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -86,48 +86,48 @@ fish_id,qPCR_screened,sample_type,pre_post,date_capture,hold_id,tank,focal,seque
 59811,N,NA,NA,2022-08-11,Aug9,20,N,N,end_hold,2022-08-21,10,0,65,35,male,NITINAT_RIVER,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59817,N,NA,NA,2022-08-10,Aug9,21,N,N,end_hold,2022-08-22,12,0,84,49,female,ADAMS_RIVER,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59832,N,NA,NA,2022-08-11,Aug9,20,N,N,end_hold,2022-08-21,10,0,37,18,female,ROBERTSON_CREEK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-59752,Y,gill,pre,2022-08-25,Aug23,19,N,N,end_hold,2022-09-05,11,1,42,21,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,  1011.26,0.00,NA,Y
-59752,Y,gill,post,2022-08-25,Aug23,19,N,Y,end_hold,2022-09-05,11,1,42,21,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,   5048.66,  0.00, 11642.72,0.00,NA,Y
-59752,Y,swab,post,2022-08-25,Aug23,19,N,N,end_hold,2022-09-05,11,1,42,21,male,SOOS_CREEK,0,  0.00,  1.12,0.00,0.00,   1541.14,  0.02, 84047.81,0.00,NA,Y
-59757,Y,gill,pre,2022-08-24,Aug23,20,N,N,end_hold,2022-09-05,12,0,67,37,male,ROBERTSON_CREEK,7.46870978654886,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   270.57,0.00,NA,Y
-59757,Y,gill,post,2022-08-24,Aug23,20,N,N,end_hold,2022-09-05,12,0,67,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      6.29,  0.00,  6530.75,0.00,NA,Y
-59757,Y,swab,pre,2022-08-24,Aug23,20,N,N,end_hold,2022-09-05,12,0,67,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   117.23,0.00,NA,Y
-59782,Y,gill,pre,2022-08-23,Aug23,19,N,Y,end_hold,2022-09-05,13,1,81,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00, 35583.67,0.00,NA,Y
-59782,Y,gill,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,1,81,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59782,Y,swab,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,1,81,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,  6477.22,0.00,NA,Y
-59788,Y,gill,pre,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59788,Y,gill,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   324.71,0.00,NA,Y
-59788,Y,swab,pre,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    46.45,0.00,NA,Y
-59788,Y,swab,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,    107.02,  0.00, 11421.24,0.00,NA,Y
-59806,Y,gill,pre,2022-08-23,Aug23,20,N,N,end_hold,2022-09-05,13,1,71,44,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59806,Y,gill,post,2022-08-23,Aug23,20,N,N,end_hold,2022-09-05,13,1,71,44,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59806,Y,swab,post,2022-08-23,Aug23,20,N,N,end_hold,2022-09-05,13,1,71,44,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,  25864.79,  0.00, 39418.02,0.00,NA,Y
-59865,Y,gill,pre,2022-08-26,Aug23,21,Y,N,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    67.89,0.00,NA,Y
-59865,Y,gill,post,2022-08-26,Aug23,21,Y,N,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,   1131.21,  0.00,     0.00,0.00,NA,N
-59865,Y,kidney,post,2022-08-26,Aug23,21,Y,N,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,1490862.81,  0.00,     0.00,0.00,NA,N
-59865,Y,liver,post,2022-08-26,Aug23,21,Y,Y,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,  70859.09,  0.00,     0.00,0.00,NA,N
-59867,Y,gill,pre,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    22.58,0.00,NA,Y
-59867,Y,gill,post,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,     12.26,  0.00,   275.65,0.00,NA,Y
-59867,Y,swab,pre,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0, 10.93,  0.00,0.00,0.00,  34663.12,  5.19,   485.79,0.00,NA,Y
-59867,Y,swab,post,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0,211.22,  0.00,0.00,0.00,   4829.46,125.01,   576.16,0.00,NA,Y
-59869,Y,gill,pre,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    76.97,0.00,NA,Y
-59869,Y,gill,post,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59869,Y,kidney,post,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,  57872.97,  0.00,     0.00,0.00,NA,N
-59869,Y,liver,post,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59869,Y,swab,pre,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    37.53,0.00,NA,Y
-59881,Y,gill,pre,2022-08-26,Aug23,20,Y,N,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,NA,N
-59881,Y,gill,post,2022-08-26,Aug23,20,Y,Y,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,1677739.45,  0.00,   179.89,0.00,NA,Y
-59881,Y,kidney,post,2022-08-26,Aug23,20,Y,Y,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,2408819.96,  0.00,     0.00,0.00,NA,N
-59881,Y,liver,post,2022-08-26,Aug23,20,Y,N,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,   3959.85,  0.00,     0.00,0.00,NA,N
-59883,Y,gill,pre,2022-08-25,Aug23,21,N,N,end_hold,2022-09-05,11,1,71,40,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    16.89,0.00,NA,Y
-59883,Y,gill,post,2022-08-25,Aug23,21,N,N,end_hold,2022-09-05,11,1,71,40,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    11.43,0.00,NA,Y
-59883,Y,swab,post,2022-08-25,Aug23,21,N,N,end_hold,2022-09-05,11,1,71,40,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  4.35,  2438.46,0.00,NA,Y
-59904,Y,gill,pre,2022-08-26,Aug23,19,N,Y,end_hold,2022-09-05,10,1,69,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00, 21506.54,0.00,NA,Y
-59904,Y,gill,post,2022-08-26,Aug23,19,N,N,end_hold,2022-09-05,10,1,69,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00, 15299.01,0.00,NA,Y
-59904,Y,swab,post,2022-08-26,Aug23,19,N,N,end_hold,2022-09-05,10,1,69,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,    508.32,  0.00,593910.48,0.00,NA,Y
-59917,Y,gill,pre,2022-08-25,Aug23,18,N,N,end_hold,2022-09-05,11,0,50,24,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   419.74,0.00,NA,Y
-59917,Y,gill,post,2022-08-25,Aug23,18,N,N,end_hold,2022-09-05,11,0,50,24,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      4.24,  0.00,  1765.61,0.00,NA,Y
-59917,Y,swab,pre,2022-08-25,Aug23,18,N,N,end_hold,2022-09-05,11,0,50,24,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    26.23,0.00,NA,Y
+59752,Y,gill,pre,2022-08-25,Aug23,19,N,N,end_hold,2022-09-05,11,1,42,21,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,  1011.26,0.00,N,Y
+59752,Y,gill,post,2022-08-25,Aug23,19,N,Y,end_hold,2022-09-05,11,1,42,21,male,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,   5048.66,  0.00, 11642.72,0.00,Y,Y
+59752,Y,swab,post,2022-08-25,Aug23,19,N,N,end_hold,2022-09-05,11,1,42,21,male,SOOS_CREEK,0,  0.00,  1.12,0.00,0.00,   1541.14,  0.02, 84047.81,0.00,Y,Y
+59757,Y,gill,pre,2022-08-24,Aug23,20,N,N,end_hold,2022-09-05,12,0,67,37,male,ROBERTSON_CREEK,7.46870978654886,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   270.57,0.00,N,Y
+59757,Y,gill,post,2022-08-24,Aug23,20,N,N,end_hold,2022-09-05,12,0,67,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      6.29,  0.00,  6530.75,0.00,Y,Y
+59757,Y,swab,pre,2022-08-24,Aug23,20,N,N,end_hold,2022-09-05,12,0,67,37,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   117.23,0.00,N,Y
+59782,Y,gill,pre,2022-08-23,Aug23,19,N,Y,end_hold,2022-09-05,13,1,81,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00, 35583.67,0.00,N,Y
+59782,Y,gill,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,1,81,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59782,Y,swab,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,1,81,44,female,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,  6477.22,0.00,N,Y
+59788,Y,gill,pre,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59788,Y,gill,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   324.71,0.00,N,Y
+59788,Y,swab,pre,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    46.45,0.00,N,Y
+59788,Y,swab,post,2022-08-23,Aug23,19,N,N,end_hold,2022-09-05,13,0,62,43,male,SERPENTINE_RIVER,0,  0.00,  0.00,0.00,0.00,    107.02,  0.00, 11421.24,0.00,Y,Y
+59806,Y,gill,pre,2022-08-23,Aug23,20,N,N,end_hold,2022-09-05,13,1,71,44,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59806,Y,gill,post,2022-08-23,Aug23,20,N,N,end_hold,2022-09-05,13,1,71,44,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59806,Y,swab,post,2022-08-23,Aug23,20,N,N,end_hold,2022-09-05,13,1,71,44,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,  25864.79,  0.00, 39418.02,0.00,Y,Y
+59865,Y,gill,pre,2022-08-26,Aug23,21,Y,N,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    67.89,0.00,N,Y
+59865,Y,gill,post,2022-08-26,Aug23,21,Y,N,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,   1131.21,  0.00,     0.00,0.00,Y,N
+59865,Y,kidney,post,2022-08-26,Aug23,21,Y,N,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,1490862.81,  0.00,     0.00,0.00,Y,N
+59865,Y,liver,post,2022-08-26,Aug23,21,Y,Y,mortality,2022-08-29,3,1,52,27,female,NA,0,  0.00,  0.00,0.00,0.00,  70859.09,  0.00,     0.00,0.00,Y,N
+59867,Y,gill,pre,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    22.58,0.00,N,Y
+59867,Y,gill,post,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,     12.26,  0.00,   275.65,0.00,Y,Y
+59867,Y,swab,pre,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0, 10.93,  0.00,0.00,0.00,  34663.12,  5.19,   485.79,0.00,Y,Y
+59867,Y,swab,post,2022-08-26,Aug23,18,N,N,end_hold,2022-09-05,10,1,72,41,male,ROBERTSON_CREEK,0,211.22,  0.00,0.00,0.00,   4829.46,125.01,   576.16,0.00,Y,Y
+59869,Y,gill,pre,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    76.97,0.00,N,Y
+59869,Y,gill,post,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59869,Y,kidney,post,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,  57872.97,  0.00,     0.00,0.00,Y,N
+59869,Y,liver,post,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59869,Y,swab,pre,2022-08-26,Aug23,20,Y,N,euthanized,2022-08-29,3,1,39,21,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    37.53,0.00,N,Y
+59881,Y,gill,pre,2022-08-26,Aug23,20,Y,N,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,     0.00,0.00,N,N
+59881,Y,gill,post,2022-08-26,Aug23,20,Y,Y,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,1677739.45,  0.00,   179.89,0.00,Y,Y
+59881,Y,kidney,post,2022-08-26,Aug23,20,Y,Y,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,2408819.96,  0.00,     0.00,0.00,Y,N
+59881,Y,liver,post,2022-08-26,Aug23,20,Y,N,mortality,2022-08-29,3,1,43,23,male,ABERNATHY_RIVER,0,  0.00,  0.00,0.00,0.00,   3959.85,  0.00,     0.00,0.00,Y,N
+59883,Y,gill,pre,2022-08-25,Aug23,21,N,N,end_hold,2022-09-05,11,1,71,40,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    16.89,0.00,N,Y
+59883,Y,gill,post,2022-08-25,Aug23,21,N,N,end_hold,2022-09-05,11,1,71,40,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    11.43,0.00,N,Y
+59883,Y,swab,post,2022-08-25,Aug23,21,N,N,end_hold,2022-09-05,11,1,71,40,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  4.35,  2438.46,0.00,N,Y
+59904,Y,gill,pre,2022-08-26,Aug23,19,N,Y,end_hold,2022-09-05,10,1,69,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00, 21506.54,0.00,N,Y
+59904,Y,gill,post,2022-08-26,Aug23,19,N,N,end_hold,2022-09-05,10,1,69,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00, 15299.01,0.00,N,Y
+59904,Y,swab,post,2022-08-26,Aug23,19,N,N,end_hold,2022-09-05,10,1,69,41,male,ROBERTSON_CREEK,0,  0.00,  0.00,0.00,0.00,    508.32,  0.00,593910.48,0.00,Y,Y
+59917,Y,gill,pre,2022-08-25,Aug23,18,N,N,end_hold,2022-09-05,11,0,50,24,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,   419.74,0.00,N,Y
+59917,Y,gill,post,2022-08-25,Aug23,18,N,N,end_hold,2022-09-05,11,0,50,24,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      4.24,  0.00,  1765.61,0.00,Y,Y
+59917,Y,swab,pre,2022-08-25,Aug23,18,N,N,end_hold,2022-09-05,11,0,50,24,female,SOOS_CREEK,0,  0.00,  0.00,0.00,0.00,      0.00,  0.00,    26.23,0.00,N,Y
 59696,N,NA,NA,2022-08-24,Aug23,18,N,N,end_hold,2022-09-05,12,0,66,39,male,ROBERTSON_CREEK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59735,N,NA,NA,2022-08-24,Aug23,21,N,N,end_hold,2022-09-05,12,0,70,40,male,ROBERTSON_CREEK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59739,N,NA,NA,2022-08-23,Aug23,21,N,N,end_hold,2022-09-05,13,0,72,42,female,ROBERTSON_CREEK,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
